@@ -1,2 +1,0 @@
-# MenuPrueba
-Prueba de menu
